@@ -19,7 +19,7 @@
 With Minitab, analysts and engineers can transform raw data into clear, actionable insights through powerful visualization, comprehensive reporting, and reliable statistical engines. It bridges the gap between complex statistical theory and practical business application, making advanced analytics accessible for improving processes, predicting outcomes, and making data-driven decisions. Trusted by educators and Fortune 500 companies alike, Minitab is the cornerstone software for anyone serious about understanding and leveraging their data.
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLy7884tuTz4sdHyN6Xvp6h-LiZbsY_g8JZw&s" alt="Minitab Statistical Software Interface"/>
+  <img src="https://datatools.me/wp-content/uploads/2019/06/computer_EN-1024x529.png" alt="Minitab Statistical Software Interface"/>
 </p>
 
 ---
